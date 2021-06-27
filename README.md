@@ -1,2 +1,1 @@
-[![TheLonelyPug's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLonelyPug)](https://github.com/anuraghazra/github-readme-stats)
-
+[![TheLonelyPug's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLonelyPug&theme=dark&show_icons=true)]
